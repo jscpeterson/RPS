@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.RPS;
+package edu.cnm.deepdive.rps.model;
 
 public class Moore implements Neighborhood {
 

@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.RPS;
+package edu.cnm.deepdive.rps.model;
 
 import java.util.Random;
 
